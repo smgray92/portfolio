@@ -8,5 +8,6 @@ _This webpage is my web programming portfolio for the Epicodus class individual 
 * _Find and open the "portfolio" folder_
 * _Open the index.html file within the repository_
 ## Link to site on GitHub pages
+https://github.com/smgray92/portfolio/tree/gh-pages
 ## Legal
 Copyright (c) 2017 Sharon Gray
