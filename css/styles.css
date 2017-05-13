@@ -6,6 +6,7 @@
 }
 .name {
   font-family:apple-chancery, cursive;
+  color: white;
 }
 .body {
   background-image:url(../img/purple.jpg);
@@ -17,7 +18,7 @@
   border: 8px groove white;
   margin: 20px;
   padding:8px;
-  width: 345px;
+  width: 353px;
 }
 .last {
   position:absolute;
@@ -39,4 +40,12 @@
 }
 .brown {
   color:#663399;
+}
+.image {
+  width:1200px;
+}
+.dot {
+  border:2px dotted #663399;
+  padding: 6px;
+  margin:10px;
 }
