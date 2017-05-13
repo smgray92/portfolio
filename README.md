@@ -7,6 +7,6 @@ _This webpage is my web programming portfolio for the Epicodus class individual 
 * _Clone this repository on to the Desktop_
 * _Find and open the "portfolio" folder_
 * _Open the index.html file within the repository_
-## Link to site on GitHub pages_
+## Link to site on GitHub pages
 ## Legal
 Copyright (c) 2017 Sharon Gray

@@ -1,0 +1,42 @@
+.title {
+  text-align:center;
+  position:absolute;
+  top:180px;
+  left:80px;
+}
+.name {
+  font-family:apple-chancery, cursive;
+}
+.body {
+  background-image:url(../img/purple.jpg);
+  background-color: purple;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.border {
+  border: 8px groove white;
+  margin: 20px;
+  padding:8px;
+  width: 345px;
+}
+.last {
+  position:absolute;
+  top:300px;
+  border:4px inset #663399;
+  padding:8px;
+}
+.extra {
+  position:absolute;
+  top:80px;
+  border:2px dotted #663399;
+  padding: 6px;
+}
+.blue {
+  color: blue;
+}
+.red {
+  color: red;
+}
+.brown {
+  color:#663399;
+}
